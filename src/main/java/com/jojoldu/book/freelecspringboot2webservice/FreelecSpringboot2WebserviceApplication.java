@@ -8,6 +8,7 @@ public class FreelecSpringboot2WebserviceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FreelecSpringboot2WebserviceApplication.class, args);
+
     }
 
 }
